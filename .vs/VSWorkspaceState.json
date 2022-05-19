@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\core",
+    "\\src\\core\\CommandHandlers"
+  ],
+  "SelectedNode": "\\src\\core\\CommandHandlers\\UpdateProfileHandler.cs",
+  "PreviewInSolutionExplorer": false
+}
